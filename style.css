@@ -99,14 +99,12 @@ p {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1rem;
-    list-style: none;
 }
 
 .skills li {
     background-color: #ecf0f1;
     padding: 0.8rem;
     border-radius: 5px;
-    border-left: 3px solid #3498db;
     color: #2c3e50;
 }
 
